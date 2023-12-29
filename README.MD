@@ -1,12 +1,6 @@
-<!-- # My YouTube channel has been removed from the site recently for supposed "Spam, scams or commercially deceptive content": I have made an appeal and am awaiting a response. UPDATE: I have received a response but YouTube insists that my channel has broke their Terms of Service. I will continue to push them until I get my channel back.
-![Removed](https://media.discordapp.net/attachments/959396399882076160/996586653554589746/unknown.png?width=1429&height=670) -->
-
-
 # What is this?
 
-This is a collection of music playlists I have made.
-
-I usually want a single conductor with a single orchestra conducting a cycle of works in the same genre by the same conductor. For example, Ludwig van Beethoven's 9 symphonies conducted by Herbert von Karajan with the Berlin Philharmonic would form a playlist. Usually I'd want the same soloist(s) too, but there will be times where this is not possible.
+This is a collection of music playlists I have made. The playlists primarily focus on featuring a single conductor leading a single orchestra through a cycle of works in the same genre, often with the same soloist(s). For instance, you might find a playlist of Ludwig van Beethoven's 9 symphonies conducted by Herbert von Karajan with the Berlin Philharmonic.
 
 The file structure and what you can find is shown below.
 
