@@ -6298,7 +6298,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVUb81Kd5jMqGGMZDKu7i_E8
 Anthony Burgess - Guitar Quartets (Guitar Quartet - Mēla Guitar Quartet)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXfsJe9aULEkZJlIl49eEdQ
 
-William Mathias - String Quartet (Quartet - Medea Quartet)
+William Mathias - String Quartets (Quartet - Medea Quartet)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVr01HqRWb1VL2IARRmS4cz
 
 Johan Svendsen - Symphonies (Conductor - Neeme Järvi | Orchestra - Gothenburg Symphony Orchestra)
@@ -6772,13 +6772,13 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVUnhbBcTgWJGli-R5R4sBxw
 Sergei Rachmaninoff - Symphonies (Conductor - Alexander Lazarev | Orchestra - Japan Philharmonic Orchestra)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVU2Zdzn2_9MTtY49apD0nBA
 
-Jean Sibelus - Symphonies (Conductor - Sixten Ehrling | Orchestra - Royal Stockholm Philharmonic Orchestra)
+Jean Sibelius - Symphonies (Conductor - Sixten Ehrling | Orchestra - Royal Stockholm Philharmonic Orchestra)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVX0XeKFTWDNWtQeUig-cPrR
 
 Carl Nielsen - Symphonies (Conductor - Sakari Oramo | Orchestra - Royal Stockholm Philharmonic Orchestra)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVWkEvv7weMcf0uqbiKv6TGc
 
-Jean Sibelus - Symphonies (Conductor - Okko Kamu | Orchestra - Lahti Symphony Orchestra)
+Jean Sibelius - Symphonies (Conductor - Okko Kamu | Orchestra - Lahti Symphony Orchestra)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUsmtsdOrjK9aB396Xjn8R3
 
 Johannes Brahms - Symphonies (Conductor - Charles Mackerras | Orchestra - Scottish Chamber Orchestra)
@@ -6867,3 +6867,6 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVXHthp3-hG4buCQUAJNMsUj
 
 Anton Bruckner - Symphonies (Conductor - Simone Young | Orchestra - Philharmonisches Staatsorchester Hamburg)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXZGD_VoGITXkCH-DiTmee2
+
+Johann Sebastian Bach - French Suites (Piano - James Friskin)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWKBFBFqsvAFMTfPzNpQW71
