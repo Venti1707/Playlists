@@ -469,7 +469,7 @@ https://www.youtube.com/playlist?list=PL4D14bmfCxVWsU1M6SxseovF_j1r6EiRk
 Ludwig van Beethoven - Piano Sonatas (Piano - Claudio Colombo)
 https://www.youtube.com/playlist?list=PL4D14bmfCxVWCXZFiw1w7KKkgxH2DDP-z
 
-Ludwig van Beethoven - Piano Sonatas (Piano - Sebastian Forster)
+Ludwig van Beethoven - Piano Sonatas (Piano - Sebastián Forster)
 https://www.youtube.com/playlist?list=PL4D14bmfCxVWwKAasX0sFYQyhluxlX-Hw
 
 Ludwig van Beethoven - Piano Sonatas (Piano - Younwha Lee)
@@ -1282,12 +1282,6 @@ https://www.youtube.com/playlist?list=PL4D14bmfCxVWfIeA9AYMAzIBP4vYkZWFX
 Ludwig van Beethoven - Piano Sonatas (Piano - Jonathan Biss)
 https://www.youtube.com/playlist?list=PL4D14bmfCxVWlh-voixJf7yYiqYOUarRr
 
-Ludwig van Beethoven - Piano Sonatas (Piano - Reza Touserkani)
-https://www.youtube.com/playlist?list=PL4D14bmfCxVUbGJH5TULg9D6lDTnMCLBi
-
-Wolfgang Amadeus Mozart - Piano Sonatas (Piano - Reza Touserkani)
-https://www.youtube.com/playlist?list=PL4D14bmfCxVXrxm5Jxy3Fc-o80faAjlSY
-
 Friedrich Gernsheim - Violin Sonatas (Violin - Christoph Schickedanz | Piano - Ernst Breidenbach)
 https://www.youtube.com/playlist?list=PL4D14bmfCxVUBHKgqyMN9znt-WB-s-aZi
 
@@ -1395,9 +1389,6 @@ https://www.youtube.com/playlist?list=PL4D14bmfCxVVowSekyompQf91gCK3jZsd
 
 Ludwig van Beethoven - String Quartets (Quartet - Belcea Quartet)
 https://www.youtube.com/playlist?list=PL4D14bmfCxVUGK8zkDicn6u09eDVNqThk
-
-Ludwig van Beethoven - String Quartets (Quartet - The Hungarian Quartet)
-https://www.youtube.com/playlist?list=PL4D14bmfCxVXkwgLnMTOiv6OQHy0kKqK0
 
 Ludwig van Beethoven - String Quartets (Quartet - Végh Quartet)
 https://www.youtube.com/playlist?list=PL4D14bmfCxVXY2GPVm5MBt8O4mVohL6V9
@@ -2967,9 +2958,6 @@ https://www.youtube.com/playlist?list=PL4D14bmfCxVWg9nssMbD5Jubq5xzCVIct
 
 Johann Sebastian Bach - The Well-Tempered Clavier (Piano - Evgeni Koroliov)
 https://www.youtube.com/playlist?list=PL4D14bmfCxVUGa2DYKYC1z6_fkYGQcDBp
-
-Johann Sebastian Bach - The Well-Tempered Clavier (Piano - Reza Touserkani)
-https://www.youtube.com/playlist?list=PL4D14bmfCxVXPCMLwuGM1YwSX5nkPLOzD
 
 Johann Sebastian Bach - The Well-Tempered Clavier (Piano - Friedrich Gulda)
 https://www.youtube.com/playlist?list=PL4D14bmfCxVWSHFKoBqef-iYNfAOTDyc4
@@ -6169,7 +6157,7 @@ https://www.youtube.com/playlist?list=PL4D14bmfCxVVrcAzz0eAOFYS8SKpwqfgt
 Anton Bruckner - Symphonies (Conductor - Paavo Järvi | Orchestra - Frankfurt Radio Symphony)
 https://www.youtube.com/playlist?list=PL4D14bmfCxVUo7Qutqu7lLQROpQqbfblv
 
-Gustav Mahler - Symphonies (Conductor - Leif Segerstam | Orchestra - Danish National Radio Symphony Orchestra | Sopranos - Tina Kiberg, Eva Johansson, Inga Nielsen, Majken Bjerno, Henriette Bonde-Hansen | Altos - Kirsten Dolberg, Anne Gjevang | Tenor - Raimo Sirkiä | Baritone - Jorma Hynninen | Bass - Carsten Stabell | Choirs - Danish National Symphony Choir, Philharmonischer Chor Berlin, Danish National Radio Choir | Boys' Choirs - Copenhagen Boys' Choir, Copenhagen Boys Choir)
+Gustav Mahler - Symphonies (Conductor - Leif Segerstam | Orchestra - Danish National Radio Symphony Orchestra | Sopranos - Tina Kiberg, Eva Johansson, Inga Nielsen, Majken Bjerno, Henriette Bonde-Hansen | Altos - Kirsten Dolberg, Anne Gjevang | Tenor - Raimo Sirkiä | Baritone - Jorma Hynninen | Bass - Carsten Stabell | Choirs - Danish National Symphony Choir, Philharmonischer Chor Berlin, Danish National Radio Choir | Boys' Choir - Copenhagen Boys' Choir)
 https://www.youtube.com/playlist?list=PL4D14bmfCxVUEh3_AbdpY8rPYqzZZ3JsO
 
 Ludwig van Beethoven - Symphonies (Conductor - Ernest Ansermet | Orchestra - Orchestre de la Suisse Romande | Soprano - Joan Sutherland | Alto - Norma Procter | Tenor - Anton Dermota | Bass - Arnold van Mill | Choir - Brassus Chorus)
@@ -6870,3 +6858,54 @@ https://www.youtube.com/playlist?list=PL4D14bmfCxVXZGD_VoGITXkCH-DiTmee2
 
 Johann Sebastian Bach - French Suites (Piano - James Friskin)
 https://www.youtube.com/playlist?list=PL4D14bmfCxVWKBFBFqsvAFMTfPzNpQW71
+
+Wolfgang Amadeus Mozart - String Quartets (Quartet - Dimov String Quartet)
+https://www.youtube.com/playlist?list=PL4D14bmfCxVWcFofX25VDNMviXbKA5-Hf
+
+Ludwig van Beethoven - String Quartets (Quartet - Wihan Quartet)
+https://www.youtube.com/playlist?list=PL4D14bmfCxVXH4pU2DvySoyyPK5mkpN4V
+
+Ludwig van Beethoven - String Quartets (Quartet - Auryn Quartet)
+https://www.youtube.com/playlist?list=PL4D14bmfCxVVuOky0bxqsXF-6XtI5Q2x6
+
+Ludwig van Beethoven - String Quartets (Quartet - Colorado String Quartet)
+https://www.youtube.com/playlist?list=PL4D14bmfCxVUcYhSllmyvXF8MumxpaK9q
+
+Ludwig van Beethoven - String Quartets (Quartet - Orion String Quartet)
+https://www.youtube.com/playlist?list=PL4D14bmfCxVWkjIrQLtFGsJWDiTwFT6xR
+
+Ludwig van Beethoven - String Quartets (Quartet - Cypress String Quartet)
+https://www.youtube.com/playlist?list=PL4D14bmfCxVVpHlfHPNGIDNbjdyd4yKPJ
+
+Ludwig van Beethoven - Symphonies (Conductor - Douglas Boyd | Orchestra - Manchester Camerata | Soprano - Rebecca von Lipinski | Alto - Anna Grevelius | Tenor - Peter Wedd | Bass - Roderick Williams | Choir - CBSO Chorus)
+https://www.youtube.com/playlist?list=PL4D14bmfCxVUqI21-46rhCydXoEbsSuCU
+
+Johann Sebastian Bach - Cello Suites (Cello - George Georgescu)
+https://www.youtube.com/playlist?list=PL4D14bmfCxVXjta3ytK5GDA3hMFxrtYTH
+
+Ludwig van Beethoven - Symphonies (Conductor - Rudolf Kempe | Orchestra - Munich Philharmonic | Soprano - Urszula Koszut | Alto - Brigitte Fassbaender | Tenor - Nicolai Gedda | Bass - Donald McIntyre | Choirs - Philharmonischer Chor München, Münchner Motettenchor)
+https://www.youtube.com/playlist?list=PL4D14bmfCxVV3I7zmldMZ3TWzZBZi1Hjl
+
+Ludwig van Beethoven - Symphonies (Conductor - Wyn Morris | Orchestra - London Symphony Orchestra | Soprano - Alison Hargan | Alto - Della Jones | Tenor - David Rendall | Bass - Gwynne Howell | Choir - London Symphony Chorus)
+https://www.youtube.com/playlist?list=PL4D14bmfCxVXUo7fUYPhiPa4NFB_UPqhu
+
+Gustav Mahler - Symphonies (Conductor - Ádám Fischer | Orchestra - Düsseldorfer Symphoniker | Sopranos - Tünde Szabóki, Hanna-Elisabeth Müller, Manuela Uhl, Polina Pasztircsák, Fatma Said | Altos - Nadine Weissmann, Anna Larsson, Katrin Wundsam, Katharina Magiera | Tenor - Neal Cooper | Baritone - Hanno Müller-Brachmann | Bass - Peter Rose | Choirs - Choir of the Städtischer Musikverein zu Düsseldorf, Clara-Schumann-Jugendchor | Women's Choir - Frauenchor des Städtischer Musikverein Düsseldorf)
+https://www.youtube.com/playlist?list=PL4D14bmfCxVVxxmEuw19YBpPPqMYyPAYH
+
+Ludwig van Beethoven - Symphonies (Conductor - Carl Schuricht | Orchestra - Orchestre de la Société des Concerts du Conservatoire | Soprano - Wilma Lipp | Alto - Marga Höffgen | Tenor - Murray Dickie | Bass - Gottlob Frick | Choir - Elisabeth Brasseur Choirs)
+https://www.youtube.com/playlist?list=PL4D14bmfCxVUS3PjFGNUQZsV3rpqyEmWN
+
+Ludwig van Beethoven - Symphonies (Conductor - Hans Schmidt-Isserstedt | Orchestra - Vienna Philharmonic | Soprano - Joan Sutherland | Alto - Marilyn Horne | Tenor - James King | Bass - Martti Talvela | Choir - Vienna State Opera Chorus)
+https://www.youtube.com/playlist?list=PL4D14bmfCxVXqnOzr_6UgpKdjGn30Kw_z
+
+Ludwig van Beethoven - Symphonies (Conductor - Jean-Phillipe Tremblay | Orchestra - Orchestre de la Francophonie | Soprano - Marie-Josée Lord | Alto - Geneviève Couillard Després | Tenor - Guy Bélanger | Bass - Étienne Dupuis | Choir - Choeur de la Francophonie)
+https://www.youtube.com/playlist?list=PL4D14bmfCxVVN6IAg18eOQXu-P1QA__ul
+
+Ludwig van Beethoven - Symphonies (Conductor - Walter Weller | Orchestra - City of Birmingham Symphony Orchestra | Soprano - Josephine Barstow | Alto - Linda Finnie | Tenor - David Rendall | Bass - John Tomlinson | Choir - City of Birmingham Symphony Chorus)
+https://www.youtube.com/playlist?list=PL4D14bmfCxVVW2LitefXkuWIQCt42zhUp
+
+Ludwig van Beethoven - Piano Sonatas (Piano - Yukio Yokoyama)
+https://www.youtube.com/playlist?list=PL4D14bmfCxVVmFiPIv5RQvVQeFNru0jts
+
+Ludwig van Beethoven - Piano Sonatas (Piano - Louis Lortie)
+https://www.youtube.com/playlist?list=PL4D14bmfCxVUTCXR3zdz_Pfk90bzp356f
