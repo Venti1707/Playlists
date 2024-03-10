@@ -919,7 +919,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVV82LLUcGHctF4QL4s6KyiW
 Ludwig van Beethoven - Piano Trios (Piano - Eugene Istomin | Violin - Isaac Stern | Cello - Leonard Rose)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUFvumW-znAjx358RWHKCi0
 
-Ludwig van Beethoven - Piano Sonatas (Piano - Friedrich Gulda; 1950s recording)
+Ludwig van Beethoven - Piano Sonatas (Piano - Friedrich Gulda; Orfeo recording)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVcp0lX1JsuUzl-8GdWVTsc
 
 Ludwig van Beethoven - Piano Sonatas (Piano - Konstantin Scherbakov)
@@ -4115,7 +4115,7 @@ Sergei Prokofiev - Symphonies (Conductor - Zdeněk Košler | Orchestra - Czech P
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUAiE9o1D5GFSurTj_1_4s_
 
 Sergei Prokofiev - Symphonies (Conductor - Neeme Järvi | Orchestra - Royal Scottish National Orchestra)
-https://music.youtube.com/playlist?list=PL4D14bmfCxVWyD5Dl3DgmHZ8aqFvos6wq
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVCT-ul1aXdewTZLzvz2Ll5
 
 Sergei Prokofiev - Symphonies (Conductor - Seiji Ozawa | Orchestra - Berlin Philharmonic)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVX1yrvPhF-0BxfuNHkZj30c
@@ -4552,7 +4552,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVUPXyyhe1_V0eNIe5sKzaVt
 Ludwig van Beethoven - Piano Sonatas (Piano - John O'Conor)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVWA315l769hS_5q_7rqtcPH
 
-Frédéric Chopin - Ballades (Piano - Tamás Vásáry)
+Frédéric Chopin - Ballades (Piano - Tamás Vásáry; 2007 recording)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUP4maDbgJ4SopXxlINI4Tq
 
 Frédéric Chopin - Ballades (Piano - Nicolas Wickham-Irving)
@@ -4570,7 +4570,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVV8gP6QjVB7JCvGM5Gaf0tf
 Frédéric Chopin - Ballades (Piano - Agustin Anievas)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXpzzER5zIAr-TnPCIzt5fj
 
-Frédéric Chopin - Ballades (Piano - Nikolai Petrov)
+Frédéric Chopin - Ballades (Piano - Nikolai Arnoldovich Petrov; 2020 release)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXMyXRnlZF1r1S-VTQMFTsj
 
 Frédéric Chopin - Ballades (Piano - Victoria Mushkatkol)
@@ -7546,9 +7546,6 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVXdLyDdKfhqWIQIPzUCmH33
 Johann Sebastian Bach - Brandenburg Concertos (Orchestra - Saint Petersburg Orchestra Opera)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVWdhK8746BctP6eZn3Lj8Gl
 
-Johann Sebastian Bach - Brandenburg Concertos (Conductor - Hans Reinartz | Orchestra - Wurzburg Symphony Orchestra)
-https://music.youtube.com/playlist?list=PL4D14bmfCxVW5EvPDGcWtuEo1nKIAbnEo
-
 Johann Sebastian Bach - Brandenburg Concertos (Conductor - Max Pommer | Orchestra - Neues Bachisches Collegium Musicum)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXkjcaznDny_WNPPp8CLN9v
 
@@ -7612,7 +7609,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVUgiboXQM20l30cY82MNmqG
 Ludwig van Beethoven - Piano Sonatas (Piano - Wilhelm Kempff; 1950s recording)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVU7jtciJ6BCmg1W10M_CuIt
 
-Ludwig van Beethoven - Piano Sonatas (Piano - Friedrich Gulda; 1950s recording)
+Ludwig van Beethoven - Piano Sonatas (Piano - Friedrich Gulda; Decca recording)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXq5vIAKAmm61Dk6tKx4WMH
 
 Ludwig van Beethoven - Piano Sonatas (Piano - Alfred Brendel; 1960s recording)
@@ -7638,3 +7635,228 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVXMh7v97V3fi7hjr1jcpqA3
 
 Ludwig van Beethoven - Piano Sonatas (Piano - Daniel Barenboim; 2012 recording)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVGXWtMh8TiK4Oearj9AHq4
+
+Johann Sebastian Bach - Cello Suites (Cello - Henri Demarquette)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXCG_pIZmLng5eclqRbGrTM
+
+Ludwig van Beethoven - Kurfürstensonaten (Piano - Fernando Marín Vega)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWk8SXy_qBJ2zRuokRS51H5
+
+Ludwig van Beethoven - Cello Sonatas (Cello - Matilda Colliard | Piano - Stefano Ligoratti)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVV6kUWzDZvGVg6FQ-xfQndf
+
+Ludwig van Beethoven - Violin Sonatas (Violin - Nikolay Madoyan | Piano - Armine Grigoryan)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVER9WF3VM3WsqChC6POzkZ
+
+Wolfgang Amadeus Mozart - String Quartets (Quartet - Armida Quartet)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVGDmev7Li9T7GgQOSf74Gt
+
+Sergei Prokofiev - Symphonies (Conductor - Kirill Karabits | Orchestra - Bournemouth Symphony Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUEjGfgosLK2bTKt3RZ6Aip
+
+Frédéric Chopin - Scherzos (Piano - Marianna Shirinyan)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUERjBBR3B1VCZ729J2-PJf
+
+Frédéric Chopin - Ballades (Piano - Shura Cherkassky)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVU565T1LK6RXcRmv22kLD5I
+
+Frédéric Chopin - Scherzos (Piano - Vladimir Ashkenazy)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXEga-2jaBasqrEi6Dy__Qe
+
+Frédéric Chopin - Scherzos (Piano - Cécile Ousset)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWVVUOuATaYFz6N0wChXkhW
+
+Frédéric Chopin - Ballades (Piano - Sviatoslav Richter)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVr9ariYJ4g1Bittt5gxdlP
+
+Frédéric Chopin - Scherzos (Piano - Sviatoslav Richter; 1973 recording)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXZpQTwuvQxptcN6l0A3Hhi
+
+Frédéric Chopin - Ballades (Piano - Seong-Jin Cho)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUr8UsmQKv6mhfwGcCZ9Aad
+
+Frédéric Chopin - Scherzos (Piano - Seong-Jin Cho)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUdZbggda6HqYPIrEdD8FB3
+
+Frédéric Chopin - Scherzos (Piano - Abdel Rahman El Bacha)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVX25qvWVw2Hxuv6VYhxdRox
+
+Frédéric Chopin - Scherzos (Piano - Ivan Moravec)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXoklqGGfh_JiRSSyVabyoy
+
+Frédéric Chopin - Scherzos (Piano - Samson François)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVV5dMkReb8NB9OeaO3tMztp
+
+Frédéric Chopin - Scherzos (Piano - Arthur Rubinstein)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWI8nazSQtQP71e_DbiR35Q
+
+Frédéric Chopin - Scherzos (Piano - Philippe Entremont)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUWabygIKBEcz1HYWGyTwhu
+
+Frédéric Chopin - Scherzos (Fortepiano - Cyril Huvé)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXNZDGJ6IFAax5w-CdqNGcZ
+
+Frédéric Chopin - Scherzos (Piano - Giampaolo Stuani)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVU493Nt80mfI1SwMqtPoPHz
+
+Frédéric Chopin - Scherzos (Piano - Islam Manafov)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXobLBNgIJijtzC274zSlMZ
+
+Frédéric Chopin - Ballades (Piano - François-René Duchâble)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUFBrc3GSjSpzjcEYPSM3CB
+
+Frédéric Chopin - Ballades (Piano - Piotr Paleczny)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUwFZCjrEW20tOLpIic-I4p
+
+Frédéric Chopin - Scherzos (Piano - Piotr Paleczny)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXtLbDzN_DX2yBJItkXkl9C
+
+Frédéric Chopin - Scherzos (Piano - Burkard Schliessmann)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVUrIIMngEcaPPNlwC179Oy
+
+Frédéric Chopin - Scherzos (Piano - Lang Lang)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVV8FY1nDSI8WI7mZfaNsvXU
+
+Frédéric Chopin - Scherzos (Piano - Eugene Mursky)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUjqEEqg2w-rdwGmjoTaKb9
+
+Frédéric Chopin - Scherzos (Piano - Charles Rosen)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUkpmEGWQugex-05ctcrMHr
+
+Ludwig van Beethoven - Symphonies (Conductor - Gianandrea Noseda | Orchestra - National Symphony Orchestra | Soprano - Camilla Tilling | Alto - Kelley O'Connor | Tenor - Issachah Savage | Bass - Ryan McKinny | Choir - The Washington Chorus)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVU0OXM7LM0KKDG4x9A3T0Z1
+
+Wolfgang Amadeus Mozart - Piano Sonatas (Piano - Orli Shaham)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUjIdUxJzAOoAI48x_ZxiGA
+
+Ludwig van Beethoven - Piano Concertos (Piano - Anton Kuerti | Conductor - Andrew Davis | Orchestra - Toronto Symphony Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUgus0vyWaev2DBvLdts9KY
+
+Albéric Magnard - Symphonies (Conductor - Jean-Yves Ossonce | Orchestra - BBC Scottish Symphony Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWWKpe0Qzn2oUL96RlXInv2
+
+Felix Mendelssohn - String Symphonies (Conductor - Ross Pople | Orchestra - London Festival Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXE2elLtSYb6RC6Pm9ozfwF
+
+Franz Berwald - Symphonies (Conductor - Roy Goodman | Orchestra - Swedish Radio Symphony Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVV9bKgkuJW4SPReN3xIPeI9
+
+Johann Sebastian Bach - Orchestral Suites (Conductor - Roy Goodman | Flute - Rachel Brown | Orchestra - The Brandenburg Consort)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWeoC8RCGgve0qCtORe__2r
+
+Johann Sebastian Bach - Brandenburg Concertos (Conductor - Roy Goodman | Flute - Rachel Brown | Harpsichord - Alastair Ross | Horns - Gavin Edwards, Raul Diaz | Oboe - Katharina Arfken | Recorder - Peter Holtslag | Trumpet - Stephen Keavy | Violas - Judith Tarling, Roy Goodman | Violin - Roy Goodman | Orchestra - The Brandenburg Consort)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWzrgM3XcxVxoeVL20_rKzR
+
+Joseph Haydn - Sinfonia Concertante (Violin - Ilya Gringolts | Cello - Nicolas Altstaedt | Oboe - Alfredo Bernardini | Bassoon - Peter Whelan | Conductor - Jonathan Cohen | Orchestra - Arcangelo)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVViANs_rlJTRQl-Jwy93F-Q
+
+Louis Spohr - Clarinet Concertos (Clarinet - Michael Collins | Conductor - Robin O'Neill | Orchestra - Swedish Chamber Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUt3_XcdQmrH1fwPvQ6wUO0
+
+Frédéric Chopin - Scherzos (Piano - Abbey Simon)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVU68UD03yw4hivXEW8lLAUc
+
+Ludwig van Beethoven - Piano Sonatas (Piano - Friedrich Gulda; Amadeo recording)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVRMtwCtsrij0cPCIM7R4oI
+
+Frédéric Chopin - Scherzos (Piano - Pavel Egorov)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVW3rr7J0QZUK4vJLC2hbd0Q
+
+Frédéric Chopin - Scherzos (Piano - Claudio Arrau)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVV75j8dc2qVoSXvw7iqlMfD
+
+Frédéric Chopin - Scherzos (Piano - Maurizio Pollini)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUVT7q4p6h1ToXZaeOwth7V
+
+Frédéric Chopin - Scherzos (Piano - Jorge Bolet)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVU51EBkPxW0Xu-QXJzN1Nn6
+
+Frédéric Chopin - Scherzos (Piano - Benjamin Grosvenor)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUl99r7nJkAtZHU_nt5vh55
+
+Frédéric Chopin - Scherzos (Piano - Bernd Glemser)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXWUNjpPdE31Fnydpby90Ob
+
+Frédéric Chopin - Scherzos (Piano - Ivo Kahánek)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUTkFqbB4QPRBwscWzzXBY2
+
+Frédéric Chopin - Scherzos (Piano - Felicja Blumental)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXnGVOuT13Gr8azoQTHy5UD
+
+Frédéric Chopin - Scherzos (Piano - Louis Lortie)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVX_nH7vYduvuCwRHp4yHHUh
+
+Frédéric Chopin - Scherzos (Piano - Roberto Szidon)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXV3lFIrZHS59Qg7RR7z3b9
+
+Frédéric Chopin - Scherzos (Piano - Ruth Slenczynska)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXTPrrbRS_Qo0-Ln0fGDT34
+
+Frédéric Chopin - Scherzos (Piano - Cyprien Katsaris)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUxc0usU6vptPBJ5Ei2Zg52
+
+Frédéric Chopin - Scherzos (Piano - Sviatoslav Richter; 1965 recording)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUlIty9dH5oTkIfhogHRu3F
+
+Frédéric Chopin - Scherzos (Piano - Bruno d'Espiney)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVURg_qpcUIl8fXaRuwCEENN
+
+Frédéric Chopin - Ballades (Piano - Nikolai Demidenko)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXBp_xAprLFGRSgHB49Lwht
+
+Frédéric Chopin - Scherzos (Piano - Stephen Hough)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXIuflIsWNnPHfUUiBXmawt
+
+Frédéric Chopin - Scherzos (Piano - Yundi)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUF1jfQotcjp2OiACHu8UlF
+
+Frédéric Chopin - Scherzos (Piano - Alexander Paley)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVULvd2bMbZcSM_xfdmK0ohI
+
+Frédéric Chopin - Scherzos (Piano - Emmanuel Ax)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVW91SO7c6-fQ8oUOwTbC-lE
+
+Frédéric Chopin - Scherzos (Piano - Samuel Dilworth-Leslie)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVX6XGLRBF3j7qRO23g5DHAY
+
+Frédéric Chopin - Scherzos (Piano - Nikolai Demidenko)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVUSu1Dg4F35rAhLbxFOQKM
+
+Frédéric Chopin - Scherzos (Piano - Stephen Hough)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUYLHI68YlOHje20rLlfh1W
+
+Frédéric Chopin - Scherzos (Piano - Tamás Vásáry)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVG3eYTRSELJineUJnLgSFf
+
+Frédéric Chopin - Ballades (Piano - Tamás Vásáry; 2005 recording)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUXarU3shpBnk7B0p_OnEhZ
+
+Frédéric Chopin - Scherzos (Piano - Mikhail Pletnev)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUX1q7ogr0FqLxRdVndc6VK
+
+Frédéric Chopin - Ballades (1992 recording; Piano - Nikolai Arnoldovich Petrov)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWtnwK7mFEaY8S7ZnZzsS0s
+
+Frédéric Chopin - Scherzos (Piano - Nikolai Arnoldovich Petrov)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUgoixQzo9-sCpPYGlHvqgs
+
+Frédéric Chopin - Scherzos (Piano - Ivo Pogorelich)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWPYnBOAzkRRrl6AQ_E_0kg
+
+Frédéric Chopin - Scherzos (Piano - Idil Biret)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXQa-kfFOHT58jtXT8ilNHb
+
+Frédéric Chopin - Scherzos (Piano - Istvan Szekely)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVh1NEJwEqqoMDOgv5fD0hc
+
+Frédéric Chopin - Scherzos (Piano - Valerie Tryon)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXFoPMO3jlRmi8g2GRQyDi9
+
+Frédéric Chopin - Scherzos (Piano - Bernard D'ascoli)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUAGo57hQ5nEAveSw6fzkhE
+
+Frédéric Chopin - Scherzos (Piano - Marta Deyanova)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVU_Bh6hs35fkdbKNR8gj78P
+
+Frédéric Chopin - Scherzos (Piano - Antonio Formaro)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVe3VM4ZuDoAQDmcGHAzAjb
