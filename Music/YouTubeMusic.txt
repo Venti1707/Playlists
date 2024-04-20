@@ -325,7 +325,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVXPiLMSmA8suRU-gfNjhwdo
 Leonardo Leo - Cello Concertos (Cello - Julius Berger | Conductor - Vladislav Czarnecki | Orchestra - Pforzheim Chamber Orchestra)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVX1z4SwLq34fx8-tr7qOle8
 
-Ludwig van Beethoven - Piano Sonatas (Piano - Wilhelm Kempff; 1960s recording)
+Ludwig van Beethoven - Piano Sonatas (1960s recording; Piano - Wilhelm Kempff)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVWuMlDzwJlrvxDsNm4g7cQE
 
 Ludwig van Beethoven - Piano Sonatas (Piano - Alfred Brendel)
@@ -337,7 +337,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVXzuVGMfOAMK5o9MEne6u8E
 Ludwig van Beethoven - Piano Sonatas (Piano - Stephen Kovacevich)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUPylYawqtSbxxovx3nTyRh
 
-Ludwig van Beethoven - Piano Sonatas (Piano - Daniel Barenboim; 1980s recording)
+Ludwig van Beethoven - Piano Sonatas (1980s recording; Piano - Daniel Barenboim)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVwf-0YR_VC20RAgwUH_2Ke
 
 Ludwig van Beethoven - Piano Sonatas (Piano - Paul Lewis)
@@ -364,7 +364,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVUfGqTfifCwFSFmph92sxE8
 Ludwig van Beethoven - Piano Sonatas (Piano - Daniel-Ben Pienaar)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXD1u1nMZVdbpCPxwZR3Ovy
 
-Ludwig van Beethoven - Piano Sonatas (Piano - Claudio Arrau; 1960s recording)
+Ludwig van Beethoven - Piano Sonatas (1960s recording; Piano - Claudio Arrau)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUg-asNdkYwe2qnL3tvZqbK
 
 Ludwig van Beethoven - Piano Sonatas (Piano - Sequeira Costa)
@@ -379,13 +379,13 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVVAlKB9njhEfuq0reAS-9t5
 Ludwig van Beethoven - Piano Sonatas (Piano - Claude Frank)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVe38Q8TfW6TZ-YnWJdQ8ol
 
-Ludwig van Beethoven - Piano Sonatas (Piano - Wilhelm Backhaus; Stereo recording)
+Ludwig van Beethoven - Piano Sonatas (Stereo recording; Piano - Wilhelm Backhaus)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVX3ncLrgDoMXqZ7q_UfPHWj
 
 Ludwig van Beethoven - Piano Sonatas (Piano - Andrea Lucchesini)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVV-I-xw1_H2BqWGsmHD4HGs
 
-Ludwig van Beethoven - Piano Sonatas (Piano - Rudolf Buchbinder; 1984 recording)
+Ludwig van Beethoven - Piano Sonatas (1984 recording; Piano - Rudolf Buchbinder)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVV_Tc5br7FhW_-MVwXKJ_91
 
 Ludwig van Beethoven - Piano Sonatas (Piano - András Schiff)
@@ -919,7 +919,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVV82LLUcGHctF4QL4s6KyiW
 Ludwig van Beethoven - Piano Trios (Piano - Eugene Istomin | Violin - Isaac Stern | Cello - Leonard Rose)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUFvumW-znAjx358RWHKCi0
 
-Ludwig van Beethoven - Piano Sonatas (Piano - Friedrich Gulda; Orfeo recording)
+Ludwig van Beethoven - Piano Sonatas (Orfeo recording; Piano - Friedrich Gulda)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVcp0lX1JsuUzl-8GdWVTsc
 
 Ludwig van Beethoven - Piano Sonatas (Piano - Konstantin Scherbakov)
@@ -1865,7 +1865,7 @@ Ludwig van Beethoven - Symphonies (Conductor - Roger Norrington | Orchestra - St
 https://music.youtube.com/playlist?list=PL4D14bmfCxVWK5PFGdPNhe5Vu72RI9wp7
 
 Ludwig van Beethoven - Symphonies (Conductor - Franz Konwitschny | Orchestra - Leipzig Gewandhaus Orchestra | Soprano - Ingeborg Wenglor | Alto - Ursula Zollenkopf | Tenor - Hans-Joachim Rotzsch | Bass - Theo Adam | Choir - MDR Rundfunkchor)
-https://music.youtube.com/playlist?list=PL4D14bmfCxVV0hQ6f8ZPwAq8EywkqC09t
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVL0smtoxKDMcxnStOHqtOa
 
 Ludwig van Beethoven - Symphonies (Conductor - Béla Drahos | Orchestra - Nicolaus Esterházy Sinfonia | Soprano - Hasmik Papian | Alto - Ruxandra Donose | Tenor - Manfred Fink | Bass - Claudio Otelli | Choir - Nicolaus Esterházy Chorus)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVWKj-SSAnr7uIcbUcw9jOPy
@@ -2625,9 +2625,6 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVXpYnXcZEGbDV_OFTcbLOX9
 
 Ludwig van Beethoven - Symphonies (Conductor - Marek Janowski | Orchestra - WDR Symphony Orchestra Cologne | Soprano - Regine Hangler | Alto - Wiebke Lehmkuhl | Tenor - Christian Elsner | Bass - Andreas Bauer Kanabas | Choir - NDR Chor)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVU4l5FluYhDFPVf-cQl7-PF
-
-Robert Schumann - Symphonies (Conductor - Franz Konwitschny | Orchestra - Leipzig Gewandhaus Orchestra)
-https://music.youtube.com/playlist?list=PL4D14bmfCxVXS2GjmbxpY79jhiksPHTtj
 
 Robert Schumann - Symphonies (Conductor - John Eliot Gardiner | Orchestra - Orchestre Révolutionnaire et Romantique)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVAh3uIp07B2ONr2lhS8Zsd
@@ -4318,7 +4315,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVU1joynd_nXLPb85YjIC5y6
 Franz Schubert - String Quartets (Quartet - Verdi Quartett)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVWbJyANEeu0E_JIlgpDOl-Q
 
-Sergei Rachmaninoff - Piano Concertos (Piano - Idil Biret | Conductor - Antoni Wit | Orchestra - Polish National Radio Symphony Orchestra)
+Sergei Rachmaninoff - Piano Concertos (Piano - İdil Biret | Conductor - Antoni Wit | Orchestra - Polish National Radio Symphony Orchestra)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXFtOrh0Hwy3Bn9K6lJjm_4
 
 Sergei Rachmaninoff - Piano Concertos (Piano - Vladimir Ashkenazy | Conductor - André Previn | Orchestra - London Symphony Orchestra)
@@ -4552,7 +4549,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVUPXyyhe1_V0eNIe5sKzaVt
 Ludwig van Beethoven - Piano Sonatas (Piano - John O'Conor)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVWA315l769hS_5q_7rqtcPH
 
-Frédéric Chopin - Ballades (Piano - Tamás Vásáry; 2007 recording)
+Frédéric Chopin - Ballades (2007 recording; Piano - Tamás Vásáry)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUP4maDbgJ4SopXxlINI4Tq
 
 Frédéric Chopin - Ballades (Piano - Nicolas Wickham-Irving)
@@ -4570,7 +4567,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVV8gP6QjVB7JCvGM5Gaf0tf
 Frédéric Chopin - Ballades (Piano - Agustin Anievas)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXpzzER5zIAr-TnPCIzt5fj
 
-Frédéric Chopin - Ballades (Piano - Nikolai Arnoldovich Petrov; 2020 release)
+Frédéric Chopin - Ballades (2020 release; Piano - Nikolai Arnoldovich Petrov)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXMyXRnlZF1r1S-VTQMFTsj
 
 Frédéric Chopin - Ballades (Piano - Victoria Mushkatkol)
@@ -4579,7 +4576,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVUaQZv-sImWmuvnm5UhXYr8
 Frédéric Chopin - Ballades (Piano - Staffan Scheja)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVWWcTOm5cyf399xDNmtt1nt
 
-Frédéric Chopin - Ballades (Piano - Idil Biret)
+Frédéric Chopin - Ballades (Piano - İdil Biret)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXHkV-DxmIvKNxC2WRxpm9m
 
 Frédéric Chopin - Ballades (Piano - Istvan Szekely)
@@ -4762,7 +4759,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVWSi7HfhxnMYEsVVJw4CDFo
 Franz Liszt - Ludwig van Beethoven Symphonies (Piano - Cyprien Katsaris)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVU-bw4B9Lkls-9RL74vYa15
 
-Franz Liszt - Ludwig van Beethoven Symphonies (Piano - Idil Biret)
+Franz Liszt - Ludwig van Beethoven Symphonies (Piano - İdil Biret)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVUUMOMH1itAg7FRR2IkIxm
 
 Franz Liszt - Ludwig van Beethoven Symphonies (Piano - Konstantin Scherbakov)
@@ -6124,10 +6121,10 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVVkavcYfNPloPJhibW1Mr7_
 Johann Sebastian Bach - Cello Suites (Cello - Steven Isserlis)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXEazUOXJv5dvLit_tsL-Sf
 
-Johann Sebastian Bach - Partitas for keyboard (Piano - Angela Hewitt; 2018 recording)
+Johann Sebastian Bach - Partitas for keyboard (2018 recording; Piano - Angela Hewitt)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVV4E_6efmLs-X0ZTYOtLHDX
 
-Johann Sebastian Bach - The Well-Tempered Clavier (Piano - Angela Hewitt; 2007 recording)
+Johann Sebastian Bach - The Well-Tempered Clavier (2007 recording; Piano - Angela Hewitt)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVWYOB0s2dVHfNNvfAY12ST3
 
 Johannes Brahms - Symphonies (Conductor - Valery Gergiev | Orchestra - London Symphony Orchestra)
@@ -6258,9 +6255,6 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVXaOKbh2PwPy__vX8zhHyVI
 
 Franz Schubert - Symphonies (Conductor - Alexander Dmitriev | Orchestra - Saint Petersburg Academic Symphony Orchestra)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXiRl_nbNJapc0zIWLssFco
-
-Ludwig van Beethoven - Cello Sonatas (Cello - Pablo Casals | Piano - Mieczeyslaw Horszowski)
-https://music.youtube.com/playlist?list=PL4D14bmfCxVW1UFBQwyO18iGpRxPdPoKg
 
 Robert Schumann - Symphonies (Conductor - Julian Kovatchev | Orchestra - Orchestra of Trieste "Giuseppe Verdi" Theatre)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXrcKVK6cuK90SoB9E_jMRy
@@ -6928,7 +6922,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVUsOuo61smOqxHrKt2JUz3-
 Charles-Marie Widor - Organ Symphonies (Organ - Pierre Pincemaille)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVWz-X3rbqXoCJE5cJ-_dZXH
 
-Ludwig van Beethoven - Piano Concertos (Fortepiano - Anthony Newman | Conductor - Stephen Simon | Orchestra - Philomusic. Antiqua)
+Ludwig van Beethoven - Piano Concertos (Fortepiano - Anthony Newman | Conductor - Stephen Simon | Orchestra - Philomusica Antiqua)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVV3nYNwld7XBTQxVAuJXg5h
 
 Ludwig van Beethoven - Cello Sonatas (Cello - Steven Isserlis | Fortepiano - Robert Levin)
@@ -7021,10 +7015,10 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVVFXx3K5NRi87l33jE8CbNs
 Johann Sebastian Bach - Sinfonias (Piano - Angela Hewitt)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUbZDX17meD2qScZ6-ybQaF
 
-Johann Sebastian Bach - Partitas for keyboard (Piano - Angela Hewitt; 1996 recording)
+Johann Sebastian Bach - Partitas for keyboard (1996 recording; Piano - Angela Hewitt)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVWpR1Qt_2W9omHMBhMK4TKi
 
-Johann Sebastian Bach - The Well-Tempered Clavier (Piano - Angela Hewitt; 2008 recording)
+Johann Sebastian Bach - The Well-Tempered Clavier (2008 recording; Piano - Angela Hewitt)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVEOMYurODHtKd4hMMfyvr4
 
 Louis Spohr - Symphonies (Conductor - Howard Shelley | Orchestra - Orchestra della Svizzera Italiana)
@@ -7591,7 +7585,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVU46GcR9naTWJ_QYKs8h6vL
 Sergei Prokofiev - Piano Concertos (Piano - Nikolai Demidenko | Conductor - Alexander Lazarev | Orchestra - London Philharmonic Orchestra)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVYcl_fS_olIjSP43wXChTW
 
-Ludwig van Beethoven - Piano Sonatas (Piano - Rudolf Buchbinder; 2021 recording)
+Ludwig van Beethoven - Piano Sonatas (2021 recording; Piano - Rudolf Buchbinder)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXYWb6h4v3t_j0H-oOlOpgP
 
 Ludwig van Beethoven - Kurfürstensonaten (Piano - Tamami Honma)
@@ -7600,19 +7594,19 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVV4bOThqw6iACwxRiUnIEVB
 Ludwig van Beethoven - Piano Sonatas (Piano - Tamami Honma)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVU10muASalFdACJ6A9UBYfZ
 
-Ludwig van Beethoven - Piano Sonatas (Piano - Wilhelm Backhaus; Mono recording)
+Ludwig van Beethoven - Piano Sonatas (Mono recording; Piano - Wilhelm Backhaus)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUgiboXQM20l30cY82MNmqG
 
-Ludwig van Beethoven - Piano Sonatas (Piano - Wilhelm Kempff; 1950s recording)
+Ludwig van Beethoven - Piano Sonatas (1950s recording; Piano - Wilhelm Kempff)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVU7jtciJ6BCmg1W10M_CuIt
 
-Ludwig van Beethoven - Piano Sonatas (Piano - Friedrich Gulda; Decca recording)
+Ludwig van Beethoven - Piano Sonatas (Decca recording; Piano - Friedrich Gulda)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXq5vIAKAmm61Dk6tKx4WMH
 
-Ludwig van Beethoven - Piano Sonatas (Piano - Alfred Brendel; 1960s recording)
+Ludwig van Beethoven - Piano Sonatas (1960s recording; Piano - Alfred Brendel)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXs9HV7qNiFSvVr0bKbG-Ot
 
-Ludwig van Beethoven - Piano Sonatas (Piano - Alfred Brendel; 1990s recording)
+Ludwig van Beethoven - Piano Sonatas (1990s recording; Piano - Alfred Brendel)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXJO7mfqyzeEtaYRXpVPQZ2
 
 Johann Sebastian Bach - The Well-Tempered Clavier (Piano - Yaeko Yamane)
@@ -7630,7 +7624,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVUdvLGug7Rshic3hjhbEg25
 Johann Sebastian Bach - Sinfonias (Piano - Irina Mejoueva)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXMh7v97V3fi7hjr1jcpqA3
 
-Ludwig van Beethoven - Piano Sonatas (Piano - Daniel Barenboim; 2012 recording)
+Ludwig van Beethoven - Piano Sonatas (2012 recording; Piano - Daniel Barenboim)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVGXWtMh8TiK4Oearj9AHq4
 
 Johann Sebastian Bach - Cello Suites (Cello - Henri Demarquette)
@@ -7666,7 +7660,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVWVVUOuATaYFz6N0wChXkhW
 Frédéric Chopin - Ballades (Piano - Sviatoslav Richter)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVr9ariYJ4g1Bittt5gxdlP
 
-Frédéric Chopin - Scherzos (Piano - Sviatoslav Richter; 1973 recording)
+Frédéric Chopin - Scherzos (1973 recording; Piano - Sviatoslav Richter)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXZpQTwuvQxptcN6l0A3Hhi
 
 Frédéric Chopin - Ballades (Piano - Seong-Jin Cho)
@@ -7753,7 +7747,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVUt3_XcdQmrH1fwPvQ6wUO0
 Frédéric Chopin - Scherzos (Piano - Abbey Simon)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVU68UD03yw4hivXEW8lLAUc
 
-Ludwig van Beethoven - Piano Sonatas (Piano - Friedrich Gulda; Amadeo recording)
+Ludwig van Beethoven - Piano Sonatas (Amadeo recording; Piano - Friedrich Gulda)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVRMtwCtsrij0cPCIM7R4oI
 
 Frédéric Chopin - Scherzos (Piano - Pavel Egorov)
@@ -7792,7 +7786,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVXTPrrbRS_Qo0-Ln0fGDT34
 Frédéric Chopin - Scherzos (Piano - Cyprien Katsaris)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUxc0usU6vptPBJ5Ei2Zg52
 
-Frédéric Chopin - Scherzos (Piano - Sviatoslav Richter; 1965 recording)
+Frédéric Chopin - Scherzos (1965 recording; Piano - Sviatoslav Richter)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUlIty9dH5oTkIfhogHRu3F
 
 Frédéric Chopin - Scherzos (Piano - Bruno d'Espiney)
@@ -7822,7 +7816,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVVUSu1Dg4F35rAhLbxFOQKM
 Frédéric Chopin - Scherzos (Piano - Tamás Vásáry)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVG3eYTRSELJineUJnLgSFf
 
-Frédéric Chopin - Ballades (Piano - Tamás Vásáry; 2005 recording)
+Frédéric Chopin - Ballades (2005 recording; Piano - Tamás Vásáry)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUXarU3shpBnk7B0p_OnEhZ
 
 Frédéric Chopin - Scherzos (Piano - Mikhail Pletnev)
@@ -7837,7 +7831,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVUgoixQzo9-sCpPYGlHvqgs
 Frédéric Chopin - Scherzos (Piano - Ivo Pogorelich)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVWPYnBOAzkRRrl6AQ_E_0kg
 
-Frédéric Chopin - Scherzos (Piano - Idil Biret)
+Frédéric Chopin - Scherzos (Piano - İdil Biret)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXQa-kfFOHT58jtXT8ilNHb
 
 Frédéric Chopin - Scherzos (Piano - Istvan Szekely)
@@ -8125,7 +8119,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVXhAXcerOpWQX9QNCbDrjYX
 Frédéric Chopin - Études (Piano - Yukio Yokoyama)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVWMY3YiLdgRjpSdBr7l2_ld
 
-Frédéric Chopin - Études (Piano - Idil Biret)
+Frédéric Chopin - Études (Piano - İdil Biret)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVV_561gaPYB6f0Usg2WmMG
 
 Frédéric Chopin - Études (Piano - Louis Lortie)
@@ -8256,3 +8250,285 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVWUYJi9mg48nwpgKSRwj2SU
 
 Frédéric Chopin - Études (Piano - Kyle Asher)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVW3rgtY2LhxxX7NDxGsdZGh
+
+Frédéric Chopin - Impromptus (Piano - Diana Kacso)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWbMLLqpA45GbSj3FiKWkTH
+
+Frédéric Chopin - Impromptus (Piano - Wolfram Schmitt‐Leonardy)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWp_LJHA82WWUYLYJflJmua
+
+Frédéric Chopin - Impromptus (Piano - François-René Duchâble)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUzm3ea6BObozATfDA27qaW
+
+Frédéric Chopin - Impromptus (Piano - Alfred Cortot)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXB0or8E8rnY8M4Jgpt7X0r
+
+Frédéric Chopin - Impromptus (Piano - Dubravka Tomšič Srebotnjak)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUnuxfRAYgQCtzLvYvjrW4t
+
+Frédéric Chopin - Impromptus (Piano - Ismaël Margain)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVU1-B8gVNja6F3OgjGQWTq9
+
+Frédéric Chopin - Impromptus (Piano - Ignasi Cambra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVU8BAUDBgHbhZNxt8cW0hOb
+
+Frédéric Chopin - Ballades (Piano - Loredana Brigandi)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUfNcoWwjyeuqOh6okDHQqE
+
+Frédéric Chopin - Impromptus (Piano - Loredana Brigandi)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVW5tSOufJ9P8hKJhcanLJG-
+
+Frédéric Chopin - Impromptus (Piano - Spencer Myer)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVViN9rKe3cPHicIBElNG4ny
+
+Frédéric Chopin - Impromptus (Piano - Bella Davidovich)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWtdXv7TrT5u2SFyh0-X-gf
+
+Frédéric Chopin - Impromptus (2021 recording; Piano - Evgeny Kissin)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVW9rcMjsLkH8LNFUd2qHCfH
+
+Frédéric Chopin - Impromptus (Piano - Wilhelm Kempff)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVW7r_NtRgUn9jbycMzGbc45
+
+Frédéric Chopin - Impromptus (Piano - Stanislav Neuhaus)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVW7uPTSfnW_6PKJjDl9jv1o
+
+Frédéric Chopin - Impromptus (Piano - François Dumont)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWvMRAjhqXPTosqekCQzYG-
+
+Frédéric Chopin - Impromptus (Piano - Thomas Prat)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVHCrIRiPAJoPa9fqO7jhZu
+
+Frédéric Chopin - Impromptus (Piano - Georges Cziffra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXM64t1tIvrcHtlxAHLJOvV
+
+Frédéric Chopin - Impromptus (Piano - Stanislav Bunin)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXVQRxeloBBSFSSKGNBjtLJ
+
+Frédéric Chopin - Impromptus (Piano - Giuseppe Greco)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUsqWp7Rp6qNfp33ylOnAIB
+
+Frédéric Chopin - Impromptus (Piano - Tatiana Shebanova)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVV9QMTsE2btN6aQVxDBs8Mj
+
+Frédéric Chopin - Impromptus (Piano - Anna Vinnitskaya)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVX3hNH2fXL8tsPu2vLIGGA
+
+Frédéric Chopin - Impromptus (Piano - Ruth Slenczynska)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVX1dOjJdv2pEUaulKUVLd7j
+
+Frédéric Chopin - Impromptus (Piano - Samson François)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVW9Th7YIgl_BgRQ4wxBp1Ro
+
+Frédéric Chopin - Impromptus (Piano - Evgeni Koroliov)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXQi-b-9_XuDgeabum3GnTv
+
+Frédéric Chopin - Scherzos (Piano - Mao Fujita)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVmNkAgWbMjNoc9ht4L86-1
+
+Frédéric Chopin - Impromptus (Piano - Mao Fujita)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUnBlJQB4qZjnE4ZLx5_HKQ
+
+Frédéric Chopin - Impromptus (Piano - Charles Richard-Hamelin)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVieB-zT-c0a_CErqV99PYs
+
+Frédéric Chopin - Impromptus (Piano - Germaine Mounier)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXDhHbsfv4sx8O8vnTk1UAJ
+
+Frédéric Chopin - Impromptus (Piano - Pavel Kolesnikov)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVViYWz9s8-2OLdUsUadMAe2
+
+Frédéric Chopin - Impromptus (Piano - Nikita Magaloff)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXJrt3cLBt0-KWTjitVS5qF
+
+Frédéric Chopin - Impromptus (Piano - Gábor Farkas)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUC0dwS22YPle7KkRGItEJW
+
+Frédéric Chopin - Impromptus (Piano - Matteo Fossi)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWnoZ_deYsproxm2M5_dIoC
+
+Frédéric Chopin - Impromptus (Piano - Anne Queffélec)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVi_Yv1OKpiLIOJOqcu0OKC
+
+Frédéric Chopin - Impromptus (Piano - Katya Apekisheva)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVr_XqnkfBfWrsTS5iCX5Aw
+
+Frédéric Chopin - Impromptus (Piano - Zala Kravos)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWqMt2CItcZUoSXvL-HPMCN
+
+Frédéric Chopin - Impromptus (Piano - Jorge Bolet)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVrup11Uh3kSZLN7hK5M237
+
+Frédéric Chopin - Impromptus (Piano - Shai Wosner)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVbOf0yBBIKTJM46OrEM9BW
+
+Frédéric Chopin - Impromptus (Piano - Radoslav Kvapil)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVW2tceUsSnNQwhqNsR8DFKS
+
+Frédéric Chopin - Impromptus (Piano - Arthur Rubinstein)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWxu7NbIQ_BT2TMeNkcn_ua
+
+Frédéric Chopin - Impromptus (Piano - Mieczysław Horszowski)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWCtNfQQAfw2tixCPNr7z_Z
+
+Robert Schumann - Symphonies (Conductor - Franz Konwitschny | Orchestra - Leipzig Gewandhaus Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVU7ShjSrdIPhXDJ58iNlThJ
+
+Sergei Prokofiev - Symphonies (Conductor - Jean Martinon | Orchestra - Orchestre National de France)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVf1N8I4eYb6f_J9L47x2pg
+
+Frédéric Chopin - Scherzos (Piano - Benno Moiseiwitsch)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWwepJ-CT_tUGAJsrlVYbL3
+
+Frédéric Chopin - Impromptus (Piano - Alex Szilasi)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXftHSBvWFEK1le5iVEHgp2
+
+Frédéric Chopin - Ballades (Piano - Massimo Gon)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUxZYzkoCCw9B4_eHIsTXcL
+
+Frédéric Chopin - Impromptus (Piano - Massimo Gon)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXSYaZboqn6INJqiAc9CjtK
+
+Felix Mendelssohn - Symphonies (Conductor - Claus Peter Flor | Orchestra - Bamberg Symphony)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXS_LuWn6Kn4EcLkYHvb1UR
+
+Frédéric Chopin - Impromptus (Piano - Tomasz Lis)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWvGz_5ivTR07RORahK2Ms0
+
+Frédéric Chopin - Ballades (2018 release; Piano - Valentina Kameníková)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWYC3MLGvXT-3TAfzTZe2eb
+
+Frédéric Chopin - Ballades (1991 release; Piano - Valentina Kameníková)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWebJhKCwVCENwyp5P7fX5y
+
+Frédéric Chopin - Impromptus (Piano - Valentina Kameníková)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWtUtr1-eGO5gwXGOS1S88A
+
+Frédéric Chopin - Impromptus (Piano - Abbey Simon)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVHR_MOfIvJbrnk-0xy_hKP
+
+Frédéric Chopin - Impromptus (Piano - Claudio Arrau)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVrvEIG-Hjlt2sPCo5g3hWl
+
+Frédéric Chopin - Impromptus (Piano - Murray Perahia)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWk_62O6l3GF7YgCanWQH6q
+
+Frédéric Chopin - Impromptus (Piano - Louis Lortie)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWkTXl0g-1ZLFgWz8OKd5wz
+
+Frédéric Chopin - Impromptus (Piano - Adolfo Barabino)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUMWlq_XXj37h9sEx_1VgH1
+
+Frédéric Chopin - Impromptus (Piano - Howard Shelley)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVU5dwvZWHHugtDWi6IiQdPf
+
+Frédéric Chopin - Impromptus (Piano - Jerzy Romaniuk)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWaYVzuMsxrNMxQy86eqOop
+
+Frédéric Chopin - Impromptus (Piano - Yundi)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWa7L-gE-_x0-CJ7L9SxMm7
+
+Frédéric Chopin - Impromptus (2004 recording; Piano - Evgeny Kissin)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVV7XJ4vbqeeU05DkrI_yzeX
+
+Frédéric Chopin - Impromptus (Piano - Luc Devos)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUZ1LOd06bODArRy3ULLale
+
+Frédéric Chopin - Impromptus (Piano - Akiko Ebi)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUo6raHroI2Oc7UoSoXK2Yx
+
+Frédéric Chopin - Impromptus (Piano - Boris Bloch)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWF4_BvURxcR2JMSWPsKfjM
+
+Frédéric Chopin - Impromptus (Piano - Vladimir Feltsman)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXBHaqZjkE8KkfRAKS12x_5
+
+Frédéric Chopin - Impromptus (Piano - Amir Katz)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWjmJN2ecpbxlZmPMG-KGe1
+
+Frédéric Chopin - Impromptus (Piano - Benjamin Kim)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVFjU7DfwsnBqhpFHblFE8z
+
+Frédéric Chopin - Impromptus (Piano - Magdalena Mullerperth)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUOg4KSH1wHyy4WHU-Zmj2e
+
+Frédéric Chopin - Impromptus (Piano - Leon McCawley)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVYpLU2_u6niXYHXnkcEvWD
+
+Frédéric Chopin - Impromptus (Piano - Christian Ihle Hadland)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXNZq7jsyspDeU6y2oKs3w7
+
+Frédéric Chopin - Impromptus (Piano - Marie-Catherine Girod)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVGP6A3efn2frkv4ZXEC0qV
+
+Frédéric Chopin - Impromptus (Piano - Janina Fialkowska)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVt_LVu8x0J6r-YUy5-TRqU
+
+Frédéric Chopin - Impromptus (Piano - Alexei Volodin)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVU76IdQA06tWtUMoHImq8IF
+
+Frédéric Chopin - Impromptus (Piano - Grigory Ginzburg)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVepUEd0xGnHejNkU8cbBk3
+
+Frédéric Chopin - Impromptus (Piano - Roberto Szidon)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWBosbd-R3Y34iBrxplmxCN
+
+Frédéric Chopin - Impromptus (Piano - Eugene Mursky)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVvPD-q2vIHaCUPczuYyqoO
+
+Frédéric Chopin - Impromptus (Piano - Garrick Ohlsson)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVV-KtyojG1dbCWCt64k0bMB
+
+Frédéric Chopin - Impromptus (Piano - Agustin Anievas)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXv9QdqTHzTcoq5pFoKRKWe
+
+Frédéric Chopin - Impromptus (Piano - Magda Tagliaferro)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVU3CtaT9-bXXqGdSrM6staC
+
+Frédéric Chopin - Ballades (Piano - Kevin Kenner)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVYZqlJ6tLoQ8guptVRmJlW
+
+Frédéric Chopin - Impromptus (Piano - Kevin Kenner)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWwqIzqGhHcsueL8za25mnd
+
+Frédéric Chopin - Impromptus (Piano - Jean Muller)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVV0yRVyT_M8Db3nqxIsdLcc
+
+Frédéric Chopin - Impromptus (Piano - Elena Bezprozvannykh)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXuMXODU6NErafR6-4Clbj7
+
+Frédéric Chopin - Scherzos (Piano - Eugen Indjic)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVV8P9JwanCtgGkIgx4fpjpI
+
+Frédéric Chopin - Impromptus (Piano - Eugen Indjic)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXpfT6HInbGT_wPUQAEFUWk
+
+Frédéric Chopin - Impromptus (Piano - Tamás Vásáry)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVK2D6nlDR4VM5ad0v_U4Ni
+
+Frédéric Chopin - Impromptus (Piano - Stefan Askenase)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVX7i0TJz9VuvVXumvDP59b_
+
+Frédéric Chopin - Impromptus (Piano - Angela Hewitt)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVX-c2OIGAhFyVJxmk7JSAYh
+
+Frédéric Chopin - Impromptus (Piano - İdil Biret)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUNPIkXQSRR92haFrIX0I12
+
+Frédéric Chopin - Impromptus (Piano - Yin Chengzong)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVV2-gFhtbuVb51d8JOdyG5-
+
+Frédéric Chopin - Ballades (Piano - Yukio Yokoyama)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUOSKRjz23wNMT73RF8Q0_k
+
+Frédéric Chopin - Impromptus (Piano - Yukio Yokoyama)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUv5t4Y1vy6dLDWpJoO3i0J
+
+Frédéric Chopin - Scherzos (Piano - Lidia Grychtołówna)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVV_oZC7kayR0zVYeyORjdlQ
+
+Frédéric Chopin - Impromptus (Piano - Lidia Grychtołówna)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWwvgBR2qFx1hyB7fXlHPZf
+
+Frédéric Chopin - Impromptus (Piano - Jon Nakamatsu)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWGdGqj1D-PgovxSB2O3QxD
