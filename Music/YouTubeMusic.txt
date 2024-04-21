@@ -4408,7 +4408,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVVZVUr16aFkb0D-OiHzq0GJ
 Frédéric Chopin - Ballades (Piano - Leif Ove Andsnes)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUC_CXKKbZcsweFFjjGIc_Q
 
-Frédéric Chopin - Ballades (Piano - Emmanuel Ax)
+Frédéric Chopin - Ballades (Piano - Emanuel Ax)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXkHp_THJ4cUASiBX7unGfJ
 
 Egon Wellesz - Symphonies (Conductor - Gottfried Rabl | Orchestra - Vienna Radio Symphony Orchestra)
@@ -7438,13 +7438,13 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVXc5vFUn2-T2n0sS-4_PjJ3
 Alexander Glazunov - Piano Concertos (Piano - Matthew Herskowitz | Conductor - Yuli Turovsky | Orchestra - I Musici de Montréal Chamber Orchestra)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUCh58Y7nvYYDsbvDC1LKDc
 
-Adolf von Henslet - Piano Concerto (Piano - Raymond Lewenthal | Conductor - Charles Mackerras | Orchestra - London Symphony Orchestra)
+Adolf von Henselt - Piano Concerto (Piano - Raymond Lewenthal | Conductor - Charles Mackerras | Orchestra - London Symphony Orchestra)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVWB1Sw04tutTefNe9r4OoRX
 
-Adolf von Henslet - Piano Concerto (Piano - Michael Ponti | Conductor - Othmar Mága | Orchestra - Philharmonia Hungarica)
+Adolf von Henselt - Piano Concerto (Piano - Michael Ponti | Conductor - Othmar Mága | Orchestra - Philharmonia Hungarica)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUr0TKMz52MhUquAfHWSQqC
 
-Adolf von Henslet - Piano Concerto (Piano - Lev Vinocour | Conductor - Johannes Wildner | Orchestra - ORF Vienna Radio Symphony Orchestra)
+Adolf von Henselt - Piano Concerto (Piano - Lev Vinocour | Conductor - Johannes Wildner | Orchestra - ORF Vienna Radio Symphony Orchestra)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVW4c7CtkuF94bgRxUM04s1K
 
 Haydn Wood - Piano Concerto (Piano - Hamish Milne | Conductor - Martyn Brabbins | Orchestra - BBC Scottish Symphony Orchestra)
@@ -7804,7 +7804,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVUF1jfQotcjp2OiACHu8UlF
 Frédéric Chopin - Scherzos (Piano - Alexander Paley)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVULvd2bMbZcSM_xfdmK0ohI
 
-Frédéric Chopin - Scherzos (Piano - Emmanuel Ax)
+Frédéric Chopin - Scherzos (Piano - Emanuel Ax)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVW91SO7c6-fQ8oUOwTbC-lE
 
 Frédéric Chopin - Scherzos (Piano - Samuel Dilworth-Leslie)
@@ -8532,3 +8532,15 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVWwvgBR2qFx1hyB7fXlHPZf
 
 Frédéric Chopin - Impromptus (Piano - Jon Nakamatsu)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVWGdGqj1D-PgovxSB2O3QxD
+
+Adolf von Henselt - Piano Concerto (Piano - Marc-André Hamelin | Conductor - Martyn Brabbins | Orchestra - BBC Scottish Symphony Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUkFTJ7h29g-veLdFLPjLud
+
+Felix Mendelssohn - Symphonies (Conductor - Jan Willem de Vriend | Orchestra - Netherlands Symphony Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUJnN7Z20kLPs3jQKMpo_Cd
+
+Henry Holden Huss - Piano Concerto (Piano - Ian Hobson | Conductor - Martyn Brabbins | Orchestra - BBC Scottish Symphony Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWz0eW39N8Fi_o-QuKjqNxw
+
+Henry Litolff - Concerto Symphoniques (Piano - Peter Donohoe | Conductor - Andrew Litton | Orchestra - BBC Scottish Symphony Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWn0TJxubj2HNqHEq-jJs-k
