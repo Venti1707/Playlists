@@ -1465,7 +1465,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVUIkq-2MfQ12WWD73-KOyfT
 Johannes Brahms - Symphonies (Conductor - Andris Nelsons | Orchestra - Boston Symphony Orchestra)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXXy95Ibr0AtJRKelkhAaMb
 
-Johannes Brahms - Symphonies (Conductor - Herbert von Karajan | Orchestra - Berlin Philharmonic)
+Johannes Brahms - Symphonies (1970s recording; Conductor - Herbert von Karajan | Orchestra - Berlin Philharmonic)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVLbOWC6rym2U8xc5oZQUo1
 
 Johannes Brahms - Symphonies (Conductor - Daniel Barenboim | Orchestra - Staatskapelle Berlin)
@@ -8547,3 +8547,15 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVUntrspjoHpDrT5FO-NqLNZ
 
 Johann Sebastian Bach - Partitas for keyboard (Harpsichord - Francesca Lanfranco)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXzVh696CGPcnpSKfdkakEw
+
+Johannes Brahms - Symphonies (1960s recording; Conductor - Herbert von Karajan | Orchestra - Berlin Philharmonic)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWoXSyz_8jvkBSJ0HClg-4_
+
+Johannes Brahms - Symphonies (1980s recording; Conductor - Herbert von Karajan | Orchestra - Berlin Philharmonic)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWY8M7P8BhdxVCNd2rydCqF
+
+Robert Schumann - Symphonies (Conductor - Marek Janowski | Orchestra - Dresden Philharmonic)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWwfZTT-4447zhhtRz_XcQe
+
+Frédéric Chopin - Études (Piano - Yunchan Lim)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWc4GfX9eJ7q0H_RNGio5PG
