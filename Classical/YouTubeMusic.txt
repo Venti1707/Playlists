@@ -3565,7 +3565,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVVkW3UDBEzPUZ393kEpfJ3U
 Johann Sebastian Bach - Cello Suites (Cello - Anne Gastinel)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVT3ESnTfaC86afKDkt_xvO
 
-Johann Sebastian Bach - Cello Suites (Cello - Jean-Guihen Queyras)
+Johann Sebastian Bach - Cello Suites (2007 recording; Cello - Jean-Guihen Queyras)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVfogbkoPjqD5agD79zMmsx
 
 Johann Sebastian Bach - Cello Suites (Cello - Antônio Meneses)
@@ -5209,7 +5209,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVVDTYRGEilO3fVYc0jn-AJr
 Paul Hindemith - String Quartets (Quartet - Danish Quartet)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXYTNGJdLbWpvZr665jky15
 
-Ramón Garay - Symphonies (Conductor - Jose Luis Temes | Orchestra - Orquesta de Córdoba | Violin - Isel Rodriguez | Oboe - Pau Rodriguez Hidalgo)
+Ramón Garay - Symphonies (Conductor - José Luis Temes | Orchestra - Orquesta de Córdoba | Violin - Isel Rodriguez | Oboe - Pau Rodriguez Hidalgo)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVeRnlVHJTFvNeG_tj_6tbR
 
 Ludwig van Beethoven - Piano Sonatas (Piano - Anton Kuerti)
@@ -6486,12 +6486,6 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVXJJ-f4-_UOQIjI3v0xa2l5
 
 Ludwig van Beethoven - Cello Sonatas (Cello - Martin Rummel | Fortepiano - Ernst Gröschel)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVU9rAR9x_yhngVtpVKCPuqP
-
-Johann Sebastian Bach - Inventions (Piano - Hikari Fukuda)
-https://music.youtube.com/playlist?list=PL4D14bmfCxVXqAhpSsVBzuN7c-GENOFku
-
-Johann Sebastian Bach - Sinfonias (Piano - Hikari Fukuda)
-https://music.youtube.com/playlist?list=PL4D14bmfCxVW48wFtc9H0mCwWOhncp1hn
 
 Johann Sebastian Bach - Inventions (Clavichord - Benjamin Alard)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXq0AuE9enxhzmiEK14Cl-Y
@@ -9076,8 +9070,32 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVWmUdpi_4TfcSOGKEIPpaXK
 Johann Sebastian Bach - Cello Suites (Cello - Henrik Dam Thomsen)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVkzEQtSeld7CNj7nNlJbgL
 
-Johann Sebastian Bach - Cello Suites (Cello - Jean-Guihen Queyras)
+Johann Sebastian Bach - Cello Suites (2023 recording; Cello - Jean-Guihen Queyras)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVULWd5_aECKoGJuNYoWGQR0
 
 Jean Sibelius - Symphonies (Conductor - Santtu-Matias Rouvali | Orchestra - Gothenburg Symphony Orchestra)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUUotSCKwHd7CQ-TwGRA0kD
+
+Johannes Brahms - Symphonies (Conductor - Christoph von Dohnányi | Orchestra - Cleveland Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWrIa8PNwOiXjYUoDJx3UIq
+
+María Teresa Prieto - Symphonies (Conductor - José Luis Temes | Orchestra - Cordoba Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVgMiD0W_6r798Ip3mcbeuM
+
+María Luisa de Borbón - Symphonies (Conductor - José Luis Temes | Orchestra - Real Filharmonía de Galicia)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXKtBeY_H3eI5WUN9Co7meJ
+
+Miguel Marqués - Symphonies (Conductor - José Luis Temes | Orchestra - Málaga Philharmonic)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWmt6wnl2BtoHPJ_JZFLX4P
+
+Ludwig van Beethoven - Piano Sonatas (Fortepiano - Maurizio Paciariello)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXDAtoOjXFXd3OYDahoS8UN
+
+Sergei Rachmaninoff - Symphonies (Conductor - Eugene Ormandy | Orchestra - Philadelphia Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXXnDOnuI0fh-sQc4DowPSM
+
+Sergei Rachmaninoff - Symphonies (Conductor - Cristian Măcelaru | Orchestra - WDR Sinfonieorchester)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVURD-pftDGkXD2CHOBzTnZU
+
+Johann Sebastian Bach - English Suites (Lautenwerck - Wolfgang Rübsam)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXcEOuirO2M_gRIbstHg1sZ
