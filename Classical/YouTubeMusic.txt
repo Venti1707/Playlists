@@ -2522,7 +2522,7 @@ Antonín Dvořák - Symphonies (Conductor - Ivan Anguélov | Orchestra - Slovak 
 https://music.youtube.com/playlist?list=PL4D14bmfCxVV09if-wteZTzAbASL42JwD
 
 Antonín Dvořák - Symphonies (Conductor - Neeme Järvi | Orchestra - Scottish National Orchestra)
-https://music.youtube.com/playlist?list=PL4D14bmfCxVV5M3sCiL2Q-BmUg17rbo2S
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXiGCq8l2u_NTdkhDAvqBja
 
 Antonín Dvořák - Symphonies (Conductor - Andrew Davis | Orchestra - Philharmonia Orchestra of London)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUJtNKcqQZjX5yV_vmBkMkz
@@ -4340,7 +4340,7 @@ Sergei Rachmaninoff - Piano Concertos (Piano - Agustin Anievas | Conductor - Raf
 https://music.youtube.com/playlist?list=PL4D14bmfCxVX81oaH5XiBiJETSHgrfyb1
 
 Sergei Rachmaninoff - Piano Concertos (Piano - Howard Shelley | Conductor - Bryden Thomson | Orchestra - Royal Scottish National Orchestra)
-https://music.youtube.com/playlist?list=PL4D14bmfCxVW66c4D34hCpEiP3vnVbDLt
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWqgRDfb3o-FwCJgOsIMAEj
 
 Sergei Rachmaninoff - Piano Concertos (Piano - Earl Wild | Conductor - Jascha Horenstein | Orchestra - Royal Philharmonic Orchestra)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVWffkl49zONu0A-mmVI4afd
@@ -9153,3 +9153,33 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVUPuKPjgO1yFDSknrUDtWrY
 
 Frédéric Chopin - Impromptus (Piano - Mordecai Shehori)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXXLyYdDfOvDAz8O2xSdqEW
+
+Dmitri Shostakovich - String Quartets (Quartet - Quartetto Noûs)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVW7dw0bjSnNLxePgY5z2jyO
+
+Johann Sebastian Bach - The Well-Tempered Clavier (Harpsichord - Masato Suzuki)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWF1kh3_xeUKIT4xG_QqKt7
+
+Ferdinand Ries - Symphonies (Conductor - Janne Nisonen | Orchestra - Tapiola Sinfonietta)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXKDUXi0Fhwc3_JVhzig1S8
+
+Johann Sebastian Bach - Cello Suites (Cello - Saša Večtomov)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUat7Q-duNhsErcAcu9j78f
+
+Goffredo Petrassi - Concertos for Orchestra (Conductor - Francesco La Vecchia | Orchestra - Orchestra Sinfonica di Roma)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUfJE5zNYekAxTPjyAMdw67
+
+Sergei Rachmaninoff - Piano Concertos (Piano - Noriko Ogawa | Conductor - Owain Arwel Hughes | Orchestra - Malmö Symphony Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVX-TrEaMbkjLzoQOLpuLAoi
+
+Johannes Brahms - Symphonies (Conductor - John Eliot Gardiner | Orchestra - Royal Concertgebouw Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWhxeVgWcJg8_OlnFr8DVnn
+
+Pyotr Ilyich Tchaikovsky - Symphonies (Conductor - Oleg Caetani | Orchestra - Melbourne Symphony Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVPyYXShzh6jz0HrepMtrVg
+
+Wolfgang Amadeus Mozart - Piano Sonatas (Piano - Angela Hewitt)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXt_FNIfDCoaR7WzaEZ2xil
+
+Pyotr Ilyich Tchaikovsky - The Seasons (Piano - Bruce Liu)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVX0OAj-uRmXDQN7iaGXBEq0
