@@ -1699,7 +1699,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVWhry-P4pGUF2WHDl896Xix
 Ludwig van Beethoven - Symphonies (Conductor - Nikolaus Harnoncourt | Orchestra - Chamber Orchestra of Europe | Soprano - Charlotte Margiono | Alto - Birgit Remmert | Tenor - Ridolf Schasching | Bass - Robert Holl | Choir - Arnold Schoenberg Choir)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXOeowqlwLX872sB_67bNJ-
 
-Ludwig van Beethoven - Symphonies (Conductor - Herbert Blomstedt | Orchestra - Leipzig Gewandhaus Orchestra | Soprano - Simona Šaturová | Alto - Mihoko Fujimura | Tenor - Christian Elsner | Baritone - Christian Gerhaher | Choirs - MDR Rundfunkchor, GewandhausChor & GewandhausKinderchor)
+Ludwig van Beethoven - Symphonies (Conductor - Herbert Blomstedt | Orchestra - Leipzig Gewandhaus Orchestra | Soprano - Simona Šaturová | Alto - Mihoko Fujimura | Tenor - Christian Elsner | Bass - Christian Gerhaher | Choirs - MDR Rundfunkchor, GewandhausChor & GewandhausKinderchor)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVV2dlmUXbcnC-nflpkfk52M
 
 Ludwig van Beethoven - Symphonies (Conductor - Bernard Haitink | Orchestra - London Symphony Orchestra | Soprano - Twyla Robinson | Alto - Karen Cargill | Tenor - John Mac Master | Bass - Gerald Finley | Choir - London Symphony Chorus)
@@ -1841,7 +1841,7 @@ Ludwig van Beethoven - Symphonies (Conductor - Colin Davis | Orchestra - Staatsk
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUEcETb1mCOhv6VOGMhPTDA
 
 Ludwig van Beethoven - Symphonies (Conductor - Claudio Abbado | Orchestra - Vienna Philharmonic | Soprano - Gabriela Benackova | Alto - Marjana Lipovsek | Tenor - Gösta Winbergh | Bass - Hermann Prey | Choir - Konzertvereinigung Wiener Staatsopernchor)
-https://music.youtube.com/playlist?list=PL4D14bmfCxVWp7-1qXdzUGqWgzNuHdJCZ
+https://music.youtube.com/playlist?list=PL4D14bmfCxVV0WGnKL54zz3CTy_J_Ttyh
 
 Ludwig van Beethoven - Symphonies (Conductor - Georg Solti | Orchestra - Chicago Symphony Orchestra | Soprano - Jessye Norman | Alto - Reinhild Runkel | Tenor - Robert Schunk | Bass - Hans Sotin | Choir - Chicago Symphony Chorus)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVb5nIrIMBCQoiZ8jgFOC_c
@@ -2965,7 +2965,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVUiOtmvRA8HwU8w76SuSVzK
 Johann Sebastian Bach - The Well-Tempered Clavier (Piano - Peter Weiss)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVaDl4OmrsdkSquYgyw0Tuy
 
-Carl Nielsen - Symphonies (Conductor - Paavo Järvi | Orchestra - Frankfurt Radio Symphony)
+Carl Nielsen - Symphonies (Conductor - Paavo Järvi | Orchestra - Frankfurt Radio Symphony | Soprano - Camilla Tilling | Baritone - Michael Nagy)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUQ3sWApCYt9JjYIXbQW3ix
 
 Carl Nielsen - Symphonies (Conductor - Alan Gilbert | Orchestra - New York Philharmonic | Soprano - Erin Morley | Baritone - Joshua Hopkins)
@@ -2983,7 +2983,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVVspXwGn5pS7v5ONLCnofQP
 Carl Nielsen - Symphonies (Conductor - Herbert Blomstedt | Orchestra - San Francisco Symphony | Soprano - Nancy Wait Kromm | Baritone - Kevin McMillan)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVWRrVQOqP_VWmDDI-Msw8gK
 
-Carl Nielsen - Symphonies (Conductor - Ole Schmidt | Orchestra - London Symphony Orchestra)
+Carl Nielsen - Symphonies (Conductor - Ole Schmidt | Orchestra - London Symphony Orchestra | Soprano - Jill Gomez | Baritone - Brian Rayner Cook)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXtJn8tjgSGW-NvJABRnwKP
 
 Carl Nielsen - Symphonies (Conductor - Theodore Kuchar | Orchestra - Janácek Philharmonic Orchestra)
@@ -2992,7 +2992,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVUccqJx7Gkzm_2-Nx3LEtOe
 Carl Nielsen - Symphonies (Conductor - Michael Schønwandt | Orchestra - Danish National Symphony Orchestra | Soprano - Inger Dam-Jensen | Baritone - Poul Elming)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVjckuFs99wbGII23agYpzi
 
-Carl Nielsen - Symphonies (Conductor - Osmo Vänskä | Orchestra - BBC Scottish Symphony Orchestra)
+Carl Nielsen - Symphonies (Conductor - Osmo Vänskä | Orchestra - BBC Scottish Symphony Orchestra | Soprano - Anu Komsi | Baritone - Christian Immler)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUhhEDcMIxg5fFuhaCX-4I5
 
 Carl Nielsen - Symphonies (Conductor - Esa-Pekka Salonen | Orchestra - Swedish Radio Symphony Orchestra | Soprano - Pia-Maria Nilsson | Baritone - Olle Persson)
@@ -4770,9 +4770,6 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVVk2hvMHRcMe3329Lbz9AWA
 
 Dag Wirén - Symphonies (Conductor - Thomas Dausgaard | Orchestra - Norrköping Symphony Orchestra)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVUHmexjo__5pyriiAxdUBVW
-
-Ture Rangström - Symphonies (Conductor - Michail Jurowski | Orchestra - Norrköping Symphony Orchestra)
-https://music.youtube.com/playlist?list=PL4D14bmfCxVW_bwq4P6sqmvddbytwOQ5l
 
 Franz Schubert - Symphonies (Conductor - Herbert Blomstedt | Orchestra - Staatskapelle Dresden)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVWq0eoZXAU8A_QAw0Ox9Ich
@@ -6733,7 +6730,7 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVU2Zdzn2_9MTtY49apD0nBA
 Jean Sibelius - Symphonies (Conductor - Sixten Ehrling | Orchestra - Royal Stockholm Philharmonic Orchestra)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVX0XeKFTWDNWtQeUig-cPrR
 
-Carl Nielsen - Symphonies (Conductor - Sakari Oramo | Orchestra - Royal Stockholm Philharmonic Orchestra)
+Carl Nielsen - Symphonies (Conductor - Sakari Oramo | Orchestra - Royal Stockholm Philharmonic Orchestra | Soprano - Anu Komsi | Baritone - Karl-Magnus Fredriksson)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVWkEvv7weMcf0uqbiKv6TGc
 
 Jean Sibelius - Symphonies (Conductor - Okko Kamu | Orchestra - Lahti Symphony Orchestra)
@@ -9183,3 +9180,66 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVXt_FNIfDCoaR7WzaEZ2xil
 
 Pyotr Ilyich Tchaikovsky - The Seasons (Piano - Bruce Liu)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVX0OAj-uRmXDQN7iaGXBEq0
+
+Ludwig van Beethoven - Symphonies (Conductor - Rimma Sushanskaya | Orchestra - National Symphony Orchestra of London | Soprano - Jennifer Davis | Alto - Bethany Horak-Hallet | Tenor - Sam Furness | Bass - Stephan Loges | Choir - Brighton Festival Chorus)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVX8fWoRWFWE6r9Pu5hyg7pg
+
+Witold Lutosławski - Symphonies (Conductor - Hannu Lintu | Orchestra - Finnish Radio Symphony Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUMeQj6yASwVLQ8F8qxA_gf
+
+Witold Lutosławski - Symphonies (Conductor - Edward Gardner | Orchestra - BBC Symphony Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVtv3LxQuPqzFc0Qea7xCO3
+
+Witold Lutosławski - Symphonies (Conductor - Esa-Pekka Salonen | Orchestra - Los Angeles Philharmonic)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVV824XWuOpwwxDQJEoRIcMr
+
+Witold Lutosławski - Symphonies (Conductor - Antoni Wit | Orchestra - Polish National Radio Symphony Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVJdgpZ5CgAjtKfW2BJelI3
+
+Anton Bruckner - Symphonies (Conductor - Gennady Rozhdestvensky | Orchestra - USSR Ministry of Culture Symphony Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVa2ECU1vEvyEftXl1WxAuI
+
+Robert Schumann - Symphonies (Conductor - Gennady Rozhdestvensky | Orchestra - Estonian Symphony Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVW9JJFTyHYaPHq_guzzHDea
+
+Dmitri Shostakovich - String Quartets (Quartet - Cuarteto Casals)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWpW0NrQY0QMARBQvsG0WPD
+
+Buxton Orr - Piano Trios (Piano - John York | Violin - Jeremy Williams | Cello - Christine Jackson)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWwJh0of98nEtXxrSK8Lyvj
+
+Franz Schubert - Symphonies (Conductor - Edward Gardner | Orchestra - City of Birmingham Symphony Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVW4z4-ngG_XVsgpTXk9-a7T
+
+Johannes Brahms - Symphonies (Conductor - Edward Gardner | Orchestra - Bergen Philharmonic Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVT5e-HBYl3kzL7xEJfAocA
+
+Carl Nielsen - Symphonies (Conductor - Thomas Jensen | Orchestra - Danish Radio Symphony Orchestra | Soprano - Kirsten Hermansen | Baritone - Erik Sjøberg)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUnnnia-bDvoaOQgYJW9521
+
+Jean Sibelius - Symphonies (Conductor - Thomas Jensen | Orchestra - Danish Radio Symphony Orchestra)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWQIl94GNrn0oS22ihi3r4u
+
+Carl Nielsen - Symphonies (Conductor - Gennady Rozhdestvensky | Orchestra - Royal Stockholm Philharmonic Orchestra | Soprano - Solveig Kringlebotn | Baritone - Karl-Magnus Fredriksson)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUrDUZHV9JLoW-43JsMKFhZ
+
+Johann Sebastian Bach - The Well-Tempered Clavier (Piano - Pierre-Laurent Aimard)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUjUCNfV42b3lgNpi7MD7PY
+
+Johann Sebastian Bach - The Well-Tempered Clavier (Harpsichord - Francesco Cera)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVMI6WlNDVSXhY20f_D2pdP
+
+Gustav Mahler - Symphonies (Conductor - Klaus Tennstedt | Orchestra - London Philharmonic Orchestra | Sopranos - Edith Mathis, Lucia Popp, Edith Wiens, Elizabeth Connell, Dame Felicity Lott | Altos - Doris Soffel, Ortrun Wenkel, Nadine Denize, Trudeliese Schmidt | Tenor - Richard Versalle | Baritone - Jorma Hynninen | Bass - Hans Sotin | Choirs - London Philharmonic Choir | Boys' Choir - Southend Boys' Choir)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUML3FZV_S76HS5fui1MX-M
+
+Hans Winteberg - Piano Sonatas (Piano - Jonathan Powell)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUu0T1MoT24pKBMGZBZw7xs
+
+Ludwig van Beethoven - Piano Concertos (Piano - Alexis Weissenberg | Conductor - Herbert von Karajan | Orchestra - Berlin Philharmonic)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVomCyhF7c9mKOGvIeAFHeF
+
+Gustav Mahler - Symphonies (Conductor - Lorin Maazel | Orchestra - New York Philharmonic | Sopranos - Jessica Jones, Heidi Grant Murphy, Christine Brewer, Nancy Gustafson, Jeanine De Bique | Altos - Cornelia Kallisch, Anna Larsson, Mary Phillips, Nancy Maultsby | Tenor - Anthony Dean Griffey | Baritone - Wolfgang Schöne | Bass - Jason Grant | Choirs - New York Choral Artists, Dessoff Symphonic Choir | Womens' Choir - Women of the Westminster Symphonic Choir | Boys' Choir - The American Boychoir | Childrens' Choir - Brooklyn Youth Chorus)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXZ6ThaEuu6KBx0-ozvU0k2
+
+Dmitri Shostakovich - Symphonies (Conductor - Gianandrea Noseda | Orchestra - London Symphony Orchestra | Choirs - London Symphony Chorus, London Philharmonic Choir | Bass - Vitalij Kowaljow | Soprano - Elena Stikhina)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVWXzvUyNPDIxBNTuGAsO5dO
